@@ -73,7 +73,7 @@ This project is implemented only on some areas of the entire routine of judiciar
 
 Ajay Vikram P - ajayvikramp@gmail.com
 
-Project Link: (https://github.com/ajay-vikram/INDIAN-JUDICIARY-MANAGEMENT.git)
+Project Link: (https://github.com/ajay-vikram/INDIAN_JUDICIARY_MANAGEMENT.git)
 
 
 
