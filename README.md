@@ -71,9 +71,9 @@ This project is implemented only on some areas of the entire routine of judiciar
 <!-- CONTACT -->
 ## Contact
 
-Aniketh Narayan Bellala - aniketh.bellala@gmail.com
+Ajay Vikram P - ajayvikramp@gmail.com
 
-Project Link: (https://github.com/aniketh-bellala/INDIAN-JUDICIARY.git)
+Project Link: (https://github.com/ajay-vikram/INDIAN-JUDICIARY-MANAGEMENT.git)
 
 
 
