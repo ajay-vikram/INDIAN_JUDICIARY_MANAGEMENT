@@ -68,12 +68,7 @@ This project is implemented only on some areas of the entire routine of judiciar
 * Modify/delete laws.
 * Appoint/Promote Judges to a higher level.
 
-<!-- CONTACT -->
-## Contact
 
-Ajay Vikram P - ajayvikramp@gmail.com
-
-Project Link: (https://github.com/ajay-vikram/INDIAN_JUDICIARY_MANAGEMENT.git)
 
 
 
